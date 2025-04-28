@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.exe
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.deps.json
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.runtimeconfig.json
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.dll
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\bin\Debug\net8.0\Perceptron.pdb
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.AssemblyInfo.cs
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.dll
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\refint\Perceptron.dll
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.pdb
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\Perceptron.genruntimeconfig.cache
+C:\Users\pc\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\Perceptron\Perceptron\obj\Debug\net8.0\ref\Perceptron.dll
